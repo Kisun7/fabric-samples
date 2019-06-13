@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db45dfc6-ac3e-488f-b833-4db68557f1dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/gateway/networkConnection.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/gateway/networkConnection.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,62 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/application/node_modules/fabric-contract-api/types/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/application/node_modules/fabric-contract-api/test/typescript/smartcontract.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/application/node_modules/fabric-shim/types/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/application/node_modules/@types/node/events.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/contract/lib/paperlist.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="296">
+              <caret line="82" column="123" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="123" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -104,36 +51,84 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="74" column="6" lean-forward="true" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+            <state relative-caret-position="418">
+              <caret line="52" column="43" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get_with_empty.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get_with_empty2.js">
+        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/gateway/networkConnection.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="67" column="75" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
+            <state relative-caret-position="-311">
+              <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
+            <state relative-caret-position="352">
               <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="97" column="108" selection-start-line="97" selection-start-column="108" selection-end-line="97" selection-end-column="108" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/issue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/addToWallet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-network/crypto-config.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-network/connection.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-301" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-network/configtx.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -182,7 +177,6 @@
         <option value="$PROJECT_DIR$/commercial-paper/organization/digibank/application/issue.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/digibank/application/send.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/digibank/contract/index.js" />
-        <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paper.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/issue.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/send.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get.js" />
@@ -190,14 +184,16 @@
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get_with_empty2.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js" />
         <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js" />
+        <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paper.js" />
+        <option value="$PROJECT_DIR$/commercial-paper/organization/magnetocorp/gateway/networkConnection.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-186" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -245,7 +241,7 @@
               <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
               <item name="organization" type="462c0819:PsiDirectoryNode" />
               <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
-              <item name="contract" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fabric-samples" type="b2602c69:ProjectViewProjectNode" />
@@ -253,8 +249,49 @@
               <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
               <item name="organization" type="462c0819:PsiDirectoryNode" />
               <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
-              <item name="contract" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="identity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+              <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
+              <item name="identity" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+              <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
+              <item name="identity" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="isabella" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+              <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
+              <item name="identity" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="isabella" type="462c0819:PsiDirectoryNode" />
+              <item name="wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="commercial-paper" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+              <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
+              <item name="identity" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="isabella" type="462c0819:PsiDirectoryNode" />
+              <item name="wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="User1@org1.example.com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,12 +388,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560220539200</updated>
-      <workItem from="1560220540575" duration="17994000" />
+      <workItem from="1560220540575" duration="23432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17994000" />
+    <option name="totallyTimeSpent" value="23432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +405,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-186" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="42" y="23" width="1398" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -376,10 +413,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24557522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30585682" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23854448" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -407,15 +444,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/addToWallet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commercial-paper/organization/digibank/application/addToWallet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -578,16 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/issue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="67" column="81" selection-start-line="67" selection-start-column="81" selection-end-line="67" selection-end-column="81" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/send.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
@@ -613,16 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="662">
           <caret line="156" column="25" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="48" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -697,30 +705,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js">
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get_with_empty.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-network/connection.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="-83" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-network/crypto-config.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-network/connection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-network/configtx.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get_with_empty.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get.js">
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="74" column="6" lean-forward="true" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+        <state relative-caret-position="360">
+          <caret line="97" column="108" selection-start-line="97" selection-start-column="108" selection-end-line="97" selection-end-column="108" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/paperlist.js">
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
+        <state relative-caret-position="296">
+          <caret line="82" column="123" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="123" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/gateway/networkConnection.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/addToWallet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commercial-paper/organization/magnetocorp/application/issue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
