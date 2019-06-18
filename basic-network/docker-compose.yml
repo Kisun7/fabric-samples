@@ -83,6 +83,8 @@ services:
       - ./crypto-config/peerOrganizations/org1.example.com/users:/etc/hyperledger/msp/users
       - ./config:/etc/hyperledger/configtx
       - ./channel:/opt/gopath/src/github.com/hyperledger/fabric/peer/channel/
+    extra_hosts:
+      - "orderer.example.com:10.133.253.41"
     depends_on:
       - orderer.example.com
       - couchdb0
@@ -125,6 +127,8 @@ services:
       - ./crypto-config/peerOrganizations/org2.example.com/users:/etc/hyperledger/msp/users
       - ./config:/etc/hyperledger/configtx
       - ./channel:/opt/gopath/src/github.com/hyperledger/fabric/peer/channel/
+    extra_hosts:
+      - "orderer.example.com:10.133.253.41"
     depends_on:
       - orderer.example.com
       - couchdb1
