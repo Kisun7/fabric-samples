@@ -1,31 +1,26 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-## Hyperledger Fabric Samples
+## Basic Samples 扩展
 
-Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
-to ensure you have the correct prerequisites installed. Please use the
-version of the documentation that matches the version of the software you
-intend to use to ensure alignment.
+3个节点，3个org，每个org只有一个peer
+A,B,C是三台不同的机器
 
-## Download Binaries and Docker Images
+chaincode 是 basic sample 中js的chaincode
 
-The [`scripts/bootstrap.sh`](https://github.com/hyperledger/fabric-samples/blob/release-1.3/scripts/bootstrap.sh)
-script will preload all of the requisite docker
-images for Hyperledger Fabric and tag them with the 'latest' tag. Optionally,
-specify a version for fabric, fabric-ca and thirdparty images. Default versions
-are 1.4.0, 1.4.0 and 0.4.14 respectively.
+git clone https://github.com/Kisun7/fabric-samples.git
 
-```bash
-./scripts/bootstrap.sh [version] [ca version] [thirdparty_version]
-```
+git checkout mysample 
 
-### Continuous Integration
-
-Please have a look at [Continuous Integration Process](docs/fabric-samples-ci.md)
-
-## License <a name="license"></a>
-
-Hyperledger Project source code files are made available under the Apache
-License, Version 2.0 (Apache-2.0), located in the [LICENSE](LICENSE) file.
-Hyperledger Project documentation files are made available under the Creative
-Commons Attribution 4.0 International License (CC-BY-4.0), available at http://creativecommons.org/licenses/by/4.0/.
+1. clean
+    * A: sudo ./teardown.sh
+    * B: sudo ./teardown.sh
+    * C: sudo ./teardown.sh
+2. setup
+    * A: sudo ./start_org1.sh
+    * B: ./copy_channel_block_here.sh   &  sudo ./start_org2.sh
+    * C: ./copy_channel_block_here.sh   &  sudo ./start_org2.sh
+3. init
+    * A: sudo sh instantiate_chaincode.sh
+    * A: cd ~/fabric-samples/commercial-paper/organization/magnetocorp/application/
+    * A: node addToWallet.js
+    * A: node issue.js 
