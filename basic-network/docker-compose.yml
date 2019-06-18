@@ -86,7 +86,7 @@ services:
     extra_hosts:
       - "orderer.example.com:10.133.253.41"
     depends_on:
-      - orderer.example.com
+#      - orderer.example.com
       - couchdb0
     networks:
       - basic
@@ -130,7 +130,7 @@ services:
     extra_hosts:
       - "orderer.example.com:10.133.253.41"
     depends_on:
-      - orderer.example.com
+#      - orderer.example.com
       - couchdb1
     networks:
       - basic
