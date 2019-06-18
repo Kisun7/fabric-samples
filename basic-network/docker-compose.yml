@@ -80,6 +80,7 @@ services:
     volumes:
       - /var/run/:/host/var/run/
       - ./../commercial-paper/organization/magnetocorp/contract:/etc/hyperledger/contract
+      - ./../commercial-paper/organization/magnetocorp/contract_hackathon:/etc/hyperledger/contract_hackathon
       - ./crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp:/etc/hyperledger/msp/peer
       - ./crypto-config/peerOrganizations/org1.example.com/users:/etc/hyperledger/msp/users
       - ./config:/etc/hyperledger/configtx
@@ -123,6 +124,7 @@ services:
     volumes:
       - /var/run/:/host/var/run/
       - ./../commercial-paper/organization/magnetocorp/contract:/etc/hyperledger/contract
+      - ./../commercial-paper/organization/magnetocorp/contract_hackathon:/etc/hyperledger/contract_hackathon
       - ./crypto-config/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp:/etc/hyperledger/msp/peer
       - ./crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp:/etc/hyperledger/msp/order
       - ./crypto-config/peerOrganizations/org2.example.com/users:/etc/hyperledger/msp/users
@@ -167,6 +169,7 @@ services:
     volumes:
       - /var/run/:/host/var/run/
       - ./../commercial-paper/organization/magnetocorp/contract:/etc/hyperledger/contract
+      - ./../commercial-paper/organization/magnetocorp/contract_hackathon:/etc/hyperledger/contract_hackathon
       - ./crypto-config/peerOrganizations/org3.example.com/peers/peer0.org3.example.com/msp:/etc/hyperledger/msp/peer
       - ./crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp:/etc/hyperledger/msp/order
       - ./crypto-config/peerOrganizations/org3.example.com/users:/etc/hyperledger/msp/users
