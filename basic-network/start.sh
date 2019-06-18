@@ -11,9 +11,9 @@ set -ev
 export MSYS_NO_PATHCONV=1
 
 # Shut down the Docker containers for the system tests.
-docker-compose -f docker-compose.yml kill && docker-compose -f docker-compose.yml down
+docker-compose -f docker-compose-local.yml kill && docker-compose -f docker-compose-local.yml down
 
-docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose-local.yml up -d
 docker ps -a
 
 # wait for Hyperledger Fabric to start
