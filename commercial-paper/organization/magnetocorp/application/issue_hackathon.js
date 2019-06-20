@@ -25,8 +25,8 @@ const CommercialPaper = require('../contract/lib/paper.js');
 const wallet = new FileSystemWallet('../identity/user/isabella/wallet');
 
 const ubl_test = {
-  'issuer' : 'suz-test',
-  'paperNumber' : '001',
+  'issuer' : 'suz',
+  'paperNumber' : '003',
   'DocumentId' : 'fa36db76-3a06-4913-af47-c622fdb0cc1c',
   'ID' : '1',
   'URI' : 'https://api-dev.cn-northwest-1.test.bwtsi.cn/tradeshift/rest/external/documents/fa36db76-3a06-4913-af47-c622fdb0cc1c',
@@ -77,7 +77,7 @@ async function main() {
 
     // Specify userName for network access
     // const userName = 'isabella.issuer@magnetocorp.com';
-    const userName = 'User1@org1.example.com';
+    const userName = 'User1@org2.example.com';
 
     // Load connection profile; will be used to locate a gateway
     let connectionProfile = yaml.safeLoad(fs.readFileSync('../gateway/networkConnection.yaml', 'utf8'));
